@@ -1,0 +1,850 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ร้านปัญญา",
+                "size": "20px",
+                "color": "#373737",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "hello, world",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "กลุ่มไลน์",
+                    "size": "13px",
+                    "color": "#676767",
+                    "weight": "regular"
+                  },
+                  {
+                    "type": "span",
+                    "size": "13px",
+                    "color": "#676767",
+                    "text": " "
+                  },
+                  {
+                    "type": "span",
+                    "text": ":",
+                    "size": "13px",
+                    "color": "#676767",
+                    "weight": "regular"
+                  },
+                  {
+                    "type": "span",
+                    "size": "13px",
+                    "color": "#676767",
+                    "text": " "
+                  },
+                  {
+                    "type": "span",
+                    "text": "ร้านน้ำพองพัฒน์, ร้านปัญญา",
+                    "size": "13px",
+                    "color": "#373737",
+                    "weight": "regular"
+                  }
+                ],
+                "wrap": true,
+                "margin": "12px"
+              }
+            ],
+            "width": "87%",
+            "offsetTop": "22px"
+          }
+        ],
+        "width": "60%"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1186568174955679754/avatar_check.png?ex=65a62dba&is=6593b8ba&hm=19fa463212b10e8f6228009408f8119f577958d2b4d98cfdc435a90a51fa6a0b&",
+                "aspectMode": "cover"
+              }
+            ],
+            "cornerRadius": "200px",
+            "width": "80%"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "คุณ ท็อป",
+                "size": "16px",
+                "color": "#373737",
+                "weight": "bold",
+                "gravity": "center",
+                "align": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1186569962010194001/line.png?ex=65a62f64&is=6593ba64&hm=0c1c44740217237d5c70d2ad77ef628d18e59133d9e4a86107d22809f02df90f&",
+                        "size": "full",
+                        "aspectRatio": "3:1"
+                      }
+                    ],
+                    "offsetStart": "2px",
+                    "offsetBottom": "1px"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Pakapol",
+                    "gravity": "center",
+                    "align": "center",
+                    "size": "12px",
+                    "color": "#676767",
+                    "offsetBottom": "2px",
+                    "offsetEnd": "15px",
+                    "weight": "regular"
+                  }
+                ],
+                "margin": "3px"
+              }
+            ],
+            "backgroundColor": "#ffffff",
+            "justifyContent": "center",
+            "width": "89%",
+            "cornerRadius": "8px",
+            "paddingBottom": "3px",
+            "paddingTop": "3px",
+            "offsetBottom": "12px"
+          }
+        ],
+        "width": "40%",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "offsetTop": "5px"
+      }
+    ],
+    "backgroundColor": "#F3F3F3",
+    "paddingStart": "8px",
+    "paddingEnd": "8px"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "hello, world",
+            "contents": [
+              {
+                "type": "span",
+                "text": "BP Number",
+                "weight": "bold",
+                "size": "12px",
+                "color": "#A8AAAE"
+              },
+              {
+                "type": "span",
+                "text": " ",
+                "size": "12px",
+                "color": "#A8AAAE"
+              },
+              {
+                "type": "span",
+                "text": ":",
+                "weight": "bold",
+                "size": "12px",
+                "color": "#A8AAAE"
+              },
+              {
+                "type": "span",
+                "text": " ",
+                "size": "12px",
+                "color": "#A8AAAE"
+              },
+              {
+                "type": "span",
+                "text": "BP112245",
+                "weight": "bold",
+                "size": "12px",
+                "color": "#0057DD"
+              }
+            ]
+          }
+        ],
+        "paddingTop": "8px",
+        "paddingBottom": "8px",
+        "paddingStart": "16px",
+        "paddingEnd": "16px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "filler"
+          }
+        ],
+        "height": "1px",
+        "backgroundColor": "#0000001A"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1193913187121238036/position-work-bag.png?ex=65ae714d&is=659bfc4d&hm=edbd6e0771b6dd2b7090e87b86273b8201ac63623e4f6874584d4e1610eaac5b&",
+                        "size": "full",
+                        "aspectRatio": "3:1",
+                        "offsetEnd": "25px"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "Level",
+                    "size": "11px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "offsetEnd": "44px"
+                  }
+                ],
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ผู้บริหาร (เจ้าของ)",
+                    "size": "11px",
+                    "color": "#373737",
+                    "weight": "regular"
+                  }
+                ],
+                "margin": "5px"
+              }
+            ],
+            "width": "50%"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1193914483190530119/user-building.png?ex=65ae7282&is=659bfd82&hm=6dce26ced64ace9c52ee61f6e0e06b80347e60f4d4ffe4d96bfcdc852963353b&",
+                        "size": "full",
+                        "aspectRatio": "3:1",
+                        "offsetEnd": "25px"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "แผนก",
+                    "size": "11px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "offsetEnd": "44px"
+                  }
+                ],
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "บริหารร้าน",
+                    "size": "11px",
+                    "color": "#373737",
+                    "weight": "regular"
+                  }
+                ],
+                "margin": "5px"
+              }
+            ],
+            "width": "50%"
+          }
+        ],
+        "width": "100%",
+        "paddingTop": "14px",
+        "paddingStart": "14px",
+        "paddingEnd": "14px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1193915125627879574/user-engineer.png?ex=65ae731b&is=659bfe1b&hm=8a8d5124e0c84e2f88e745aab4105dd035bb140593bae3482e369d751930d904&",
+                        "size": "full",
+                        "aspectRatio": "3:1",
+                        "offsetEnd": "25px"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "ประเภทลูกค้า",
+                    "size": "11px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "offsetEnd": "44px"
+                  }
+                ],
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ร้านค้าช่วง",
+                    "size": "11px",
+                    "color": "#373737",
+                    "weight": "regular"
+                  }
+                ],
+                "margin": "5px"
+              }
+            ],
+            "width": "50%"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1193915310005301368/phone-calling.png?ex=65ae7347&is=659bfe47&hm=3c0b2579b4b7d0b84405265d4e7a7fe1389bdab4239e366a827699f330111bf8&",
+                        "size": "full",
+                        "aspectRatio": "3:1",
+                        "offsetEnd": "25px"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "เบอร์โทรร้าน",
+                    "size": "11px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "offsetEnd": "44px"
+                  }
+                ],
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "075-533-335",
+                    "size": "11px",
+                    "color": "#373737",
+                    "weight": "regular"
+                  }
+                ],
+                "margin": "5px"
+              }
+            ],
+            "width": "50%"
+          }
+        ],
+        "width": "100%",
+        "paddingStart": "14px",
+        "paddingEnd": "14px",
+        "paddingTop": "14px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1193915615132532756/building.png?ex=65ae7390&is=659bfe90&hm=87da9452e5e7c2170d77498e078844d06c92bfa7a1257fba1fb804cd0b98e713&",
+                        "size": "full",
+                        "aspectRatio": "3:1",
+                        "offsetEnd": "25px"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "ที่อยู่ร้าน",
+                    "size": "11px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "offsetEnd": "44px"
+                  }
+                ],
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "729/10 ถนน พระนคร",
+                    "size": "11px",
+                    "color": "#373737",
+                    "weight": "regular"
+                  }
+                ],
+                "margin": "5px"
+              }
+            ],
+            "width": "50%"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1193915853608079511/location-pin.png?ex=65ae73c9&is=659bfec9&hm=fd03e7ea785c391139414941be3f5132421b337bbd0347e60e2e6028e6b66c50&",
+                        "size": "full",
+                        "aspectRatio": "3:1",
+                        "offsetEnd": "25px"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "จังหวัด",
+                    "size": "11px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "offsetEnd": "44px"
+                  }
+                ],
+                "alignItems": "center"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "กรุงเทพมหานคร",
+                    "size": "11px",
+                    "color": "#373737",
+                    "weight": "regular"
+                  }
+                ],
+                "margin": "5px"
+              }
+            ],
+            "width": "50%"
+          }
+        ],
+        "width": "100%",
+        "paddingStart": "14px",
+        "paddingEnd": "14px",
+        "paddingTop": "14px",
+        "paddingBottom": "14px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "filler"
+          }
+        ],
+        "height": "1px",
+        "backgroundColor": "#0000001A"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รายละเอียดผู้ส่งคำขอ",
+                "size": "12px",
+                "weight": "bold",
+                "color": "#373737"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "image",
+                        "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1193917311149690900/avatar_check.png?ex=65ae7524&is=659c0024&hm=4a67fb163aad2f034f1c0010bd5c3ef4feced44576955c354b7858c3fddfe8cf&",
+                        "aspectMode": "cover"
+                      }
+                    ],
+                    "width": "60%",
+                    "cornerRadius": "200px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "คุณ ท็อป",
+                        "size": "10px",
+                        "color": "#373737",
+                        "weight": "bold",
+                        "gravity": "center",
+                        "align": "center"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                              {
+                                "type": "image",
+                                "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1186569962010194001/line.png?ex=65a62f64&is=6593ba64&hm=0c1c44740217237d5c70d2ad77ef628d18e59133d9e4a86107d22809f02df90f&",
+                                "size": "full",
+                                "aspectRatio": "3:1",
+                                "offsetStart": "3px"
+                              }
+                            ],
+                            "offsetStart": "2px",
+                            "offsetBottom": "1px"
+                          },
+                          {
+                            "type": "text",
+                            "text": "Suwit",
+                            "gravity": "center",
+                            "align": "center",
+                            "size": "10px",
+                            "color": "#676767",
+                            "offsetBottom": "2px",
+                            "weight": "regular",
+                            "offsetEnd": "10px"
+                          }
+                        ],
+                        "margin": "3px"
+                      }
+                    ],
+                    "backgroundColor": "#F4F4F4",
+                    "justifyContent": "center",
+                    "width": "89%",
+                    "cornerRadius": "8px",
+                    "paddingBottom": "3px",
+                    "paddingTop": "3px",
+                    "offsetBottom": "15px"
+                  }
+                ],
+                "width": "30%",
+                "alignItems": "center",
+                "justifyContent": "center"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1193915125627879574/user-engineer.png?ex=65ae731b&is=659bfe1b&hm=8a8d5124e0c84e2f88e745aab4105dd035bb140593bae3482e369d751930d904&",
+                            "aspectRatio": "2.5:1"
+                          }
+                        ],
+                        "width": "30%"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "hello, world",
+                            "contents": [
+                              {
+                                "type": "span",
+                                "text": "ตำเเหน่ง",
+                                "size": "11px",
+                                "color": "#A8AAAE"
+                              },
+                              {
+                                "type": "span",
+                                "size": "11px",
+                                "color": "#A8AAAE",
+                                "text": " "
+                              },
+                              {
+                                "type": "span",
+                                "size": "11px",
+                                "color": "#A8AAAE",
+                                "text": ":"
+                              },
+                              {
+                                "type": "span",
+                                "size": "11px",
+                                "color": "#A8AAAE",
+                                "text": " "
+                              },
+                              {
+                                "type": "span",
+                                "text": "พนักงานขาย",
+                                "size": "11px",
+                                "color": "#A8AAAE"
+                              }
+                            ]
+                          }
+                        ],
+                        "width": "70%",
+                        "offsetEnd": "10px"
+                      }
+                    ],
+                    "alignItems": "center"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "image",
+                            "url": "https://cdn.discordapp.com/attachments/1166245055342850111/1193915310005301368/phone-calling.png?ex=65ae7347&is=659bfe47&hm=3c0b2579b4b7d0b84405265d4e7a7fe1389bdab4239e366a827699f330111bf8&",
+                            "aspectRatio": "2.5:1"
+                          }
+                        ],
+                        "width": "30%"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "hello, world",
+                            "contents": [
+                              {
+                                "type": "span",
+                                "text": "เบอร์โทร",
+                                "size": "11px",
+                                "color": "#A8AAAE"
+                              },
+                              {
+                                "type": "span",
+                                "size": "11px",
+                                "color": "#A8AAAE",
+                                "text": " "
+                              },
+                              {
+                                "type": "span",
+                                "size": "11px",
+                                "color": "#A8AAAE",
+                                "text": ":"
+                              },
+                              {
+                                "type": "span",
+                                "size": "11px",
+                                "color": "#A8AAAE",
+                                "text": " "
+                              },
+                              {
+                                "type": "span",
+                                "text": "098-259-3357",
+                                "size": "11px",
+                                "color": "#A8AAAE"
+                              }
+                            ]
+                          }
+                        ],
+                        "width": "70%",
+                        "offsetEnd": "10px"
+                      }
+                    ],
+                    "alignItems": "center",
+                    "margin": "10px"
+                  }
+                ],
+                "offsetTop": "10px"
+              }
+            ],
+            "margin": "8px"
+          }
+        ],
+        "paddingTop": "12px",
+        "paddingStart": "14px",
+        "paddingEnd": "14px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "filler"
+          }
+        ],
+        "height": "1px",
+        "backgroundColor": "#0000001A"
+      }
+    ],
+    "paddingAll": "0px",
+    "backgroundColor": "#FFFFFFCC"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ไม่อนุมัติ",
+            "size": "16px",
+            "color": "#ffffff",
+            "weight": "bold"
+          }
+        ],
+        "backgroundColor": "#A8AAAE",
+        "paddingAll": "8px",
+        "cornerRadius": "8px",
+        "justifyContent": "center",
+        "alignItems": "center"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "อนุมัติ",
+            "size": "16px",
+            "color": "#ffffff",
+            "weight": "bold"
+          }
+        ],
+        "backgroundColor": "#0057DD",
+        "paddingAll": "8px",
+        "cornerRadius": "8px",
+        "justifyContent": "center",
+        "alignItems": "center"
+      }
+    ],
+    "spacing": "8px"
+  }
+}
